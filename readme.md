@@ -3,7 +3,7 @@ A fork of the Charbdis keyboard by Bastarkb
 ## About
 A 3x6 split keyboard with magnetic removable thumb cluster and trackball
 
-#WARNING!
+# WARNING!
 This is currently in development and the pcb, and case should not be printed 
 # Sourcing the components
 
