@@ -5,6 +5,12 @@ A 3x6 split keyboard with magnetic removable thumb cluster and trackball
 
 # WARNING!
 This is currently in development and the case should not be printed 
+
+# Current Progress
+[x] Route PCB
+[] Make case
+[] Print PCB
+
 # Sourcing the components
 
 ## Electronic components
