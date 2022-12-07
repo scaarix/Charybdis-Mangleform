@@ -1,5 +1,0 @@
-(fp_lib_table
-  (lib (name "custom")(type "KiCad")(uri "D:/kicad/keyboards/idk manuform/manuform thing/thumb/custom.pretty")(options "")(descr ""))
-  (lib (name "customs")(type "KiCad")(uri "D:/kicad/keyboards/idk manuform/manuform thing/thumb/customs.pretty")(options "")(descr ""))
-  (lib (name "libs2")(type "KiCad")(uri "D:/kicad/Footprints/Keyboards/libs2")(options "")(descr ""))
-)
