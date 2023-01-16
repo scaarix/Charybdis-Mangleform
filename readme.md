@@ -53,7 +53,7 @@ If you want RGB, you will also need:
 
 | Part name          |  Amount (3x6) | Amount        | Link       |
 | ------------------ | ------        | ------------- | ---------- |
-| Place Holder       |               |               |            |
+| SK6812 MINI        | 42            |               |            |
 | Place Holder       |               |               |            |
 | Place Holder       |               |               |            |
 | Place Holder       |               |               |            |
