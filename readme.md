@@ -9,7 +9,7 @@ This is currently in development and the case should not be printed
 # Current Progress
 - [x] Route PCB
 - [ ] Make case
-- [ ] Print PCB
+- [ ] Buy and Test PCB
 
 # Sourcing the components
 
