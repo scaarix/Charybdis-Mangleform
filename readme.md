@@ -7,8 +7,8 @@ A 3x6 split keyboard with magnetic removable thumb cluster and trackball
 This is currently in development and the case should not be printed 
 
 # Updates
----------------------------------------------------------------------------------
-|Stopped procrastinating and started to work on the case (I suck at using fusion)|
+
+Stopped procrastinating and started to work on the case (I suck at using fusion)
 ---------------------------------------------------------------------------------
 
 # Current Progress
