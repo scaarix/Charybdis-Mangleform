@@ -1,5 +1,8 @@
+# DISCONTINUED
+
 # Charybdis Mangleform
 A fork of the Charbdis keyboard by Bastarkb
+
 ## About
 A 3x6 split keyboard with magnetic removable thumb cluster and trackball
 
